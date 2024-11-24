@@ -25,7 +25,7 @@
 <h3 align="left">Game Development Frameworks</h3>
 <p align="left">
   <a href="https://phaser.io/" target="_blank" rel="noreferrer">
-    <img src="http://snktcodes.github.io/snktcodes/phaser.svg" alt="Phaser 3" width="40" height="40"/>
+    <img src="http://snktcodes.github.io/snktCodes/phaser.svg" alt="Phaser 3" width="40" height="40"/>
   </a>
   <a href="https://svelte.dev" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>
@@ -70,10 +70,10 @@
 <h3 align="left">Freelancing Platforms</h3>
 <p align="left">
   <a href="https://www.fiverr.com" target="_blank" rel="noreferrer">
-    <img src="http://snktcodes.github.io/snktcodes/fiverr.svg" alt="Fiverr" width="100" height="40"/>
+    <img src="http://snktcodes.github.io/snktCodes/fiverr.svg" alt="Fiverr" width="100" height="40"/>
   </a>
   <a href="https://www.upwork.com" target="_blank" rel="noreferrer">
-    <img src="http://snktcodes.github.io/snktcodes/upwork.svg" alt="Upwork" width="100" height="40"/>
+    <img src="http://snktcodes.github.io/snktCodes/upwork.svg" alt="Upwork" width="100" height="40"/>
   </a>
 </p>
 
