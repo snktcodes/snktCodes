@@ -21,7 +21,7 @@
 </p>
 <p align="left">
   <a href="https://www.fiverr.com/sanket1994" target="_blank" rel="noreferrer">
-    <img src="http://snktcodes.github.io/snktCodes/fiverr.svg" alt="Fiverr" width="100" height="40"/>
+    <img src="http://snktcodes.github.io/snktCodes/fiverrr.svg" alt="Fiverr" width="100" height="40"/>
   </a>
   <a href="https://www.upwork.com/fl/~0173ab638d2bb7a9c4?mp_source=share" target="_blank" rel="noreferrer">
     <img src="http://snktcodes.github.io/snktCodes/upwork.svg" alt="Upwork" width="100" height="40"/>
