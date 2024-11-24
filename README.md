@@ -20,12 +20,13 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sanket-shinde-798b60156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanket-shinde-798b60156/" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 
 <h3 align="left">Game Development Frameworks</h3>
 <p align="left">
   <a href="https://phaser.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/photonstorm/phaser-ce/master/logo/logo.png" alt="Phaser 3" width="40" height="40"/>
+    <img src="http://snktcodes.github.io/snktcodes/phaser.svg" alt="Phaser 3" width="40" height="40"/>
   </a>
   <a href="https://svelte.dev" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>
@@ -70,10 +71,10 @@
 <h3 align="left">Freelancing Platforms</h3>
 <p align="left">
   <a href="https://www.fiverr.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Fiverr_Logo_2020.svg" alt="Fiverr" width="100" height="40"/>
+    <img src="http://snktcodes.github.io/snktcodes/fiverr.svg" alt="Fiverr" width="100" height="40"/>
   </a>
   <a href="https://www.upwork.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Upwork-logo.svg" alt="Upwork" width="100" height="40"/>
+    <img src="http://snktcodes.github.io/snktcodes/upwork.svg" alt="Upwork" width="100" height="40"/>
   </a>
 </p>
 
@@ -105,8 +106,6 @@
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
   </a>
 </p>
-
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/snkt007"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/snkt007" /></a></p><br><br>
