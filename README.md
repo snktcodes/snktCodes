@@ -25,7 +25,7 @@
 <h3 align="left">Game Development Frameworks</h3>
 <p align="left">
   <a href="https://phaser.io/" target="_blank" rel="noreferrer">
-    <img src="http://snktcodes.github.io/snktcodes/phaser.svg" alt="Phaser 3" width="40" height="40"/>
+    <img src="http://snktcodes.github.io/snktcodes/phaserplanet.svg" alt="Phaser 3" width="40" height="40"/>
   </a>
   <a href="https://svelte.dev" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>
