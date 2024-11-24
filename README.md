@@ -20,10 +20,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sanket-shinde-798b60156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanket-shinde-798b60156/" height="30" width="40" /></a>
 </p>
 <p align="left">
-  <a href="https://www.fiverr.com" target="_blank" rel="noreferrer">
+  <a href="https://www.fiverr.com/sanket1994" target="_blank" rel="noreferrer">
     <img src="http://snktcodes.github.io/snktCodes/fiverr.svg" alt="Fiverr" width="100" height="40"/>
   </a>
-  <a href="https://www.upwork.com" target="_blank" rel="noreferrer">
+  <a href="[https://www.upwork.com](https://www.upwork.com/fl/~0173ab638d2bb7a9c4?mp_source=share)" target="_blank" rel="noreferrer">
     <img src="http://snktcodes.github.io/snktCodes/upwork.svg" alt="Upwork" width="100" height="40"/>
   </a>
 </p>
