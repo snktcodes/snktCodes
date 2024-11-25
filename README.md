@@ -24,6 +24,7 @@
   <a href="https://www.linkedin.com/in/sanket-shinde-798b60156/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanket Shinde LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   <a href="https://www.fiverr.com/sanket1994" target="_blank" rel="noreferrer">
     <img align="center" src="http://snktcodes.github.io/snktCodes/fiverrr.svg" alt="Fiverr" width="100" height="40" />
   </a>
