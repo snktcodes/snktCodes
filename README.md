@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanket S.</h1>
+<h1 align="center">Hi 👋, I'm Sanket S. [snktCodes]</h1>
 <h3 align="center">A passionate HTML5 game developer from India</h3>
 
 - 🌱 I’m currently learning **GSAP, Shaders, ThreeJS**
