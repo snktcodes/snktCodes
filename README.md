@@ -1,4 +1,4 @@
-# 👋 Sanket S. | Founder – Sanvar Studio  
+# 👋 Sanket S.
 ### Playable Ads • HTML5 Games • Unity Games • Interactive Brand Experiences
 
 I help agencies and brands turn campaigns into **high-performance interactive experiences**.
