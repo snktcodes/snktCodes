@@ -1,109 +1,182 @@
-<h1 align="center">Hi 👋, I'm Sanket S. [snktcodes]</h1>
-<h3 align="center">A passionate HTML5 game developer from India</h3>
+# 👋 Sanket S. | Founder – Sanvar Studio  
+### Playable Ads • HTML5 Games • Unity Games • Interactive Brand Experiences
 
-- 🌱 I’m currently learning **GSAP, Shaders, ThreeJS**
+I help agencies and brands turn campaigns into **high-performance interactive experiences**.
 
-- 👯 I’m looking to collaborate on [Playable Ads and HTML5 Games](https://www.fiverr.com/sanket1994)
+From lightweight playable ads under strict file-size limits to immersive WebGL builds and Unity applications, I focus on **craft, performance, and conversion**.
 
-- 👨‍💻 All of my projects are available at [https://www.fiverr.com/sanket1994](https://www.fiverr.com/sanket1994)
+---
 
-- 💬 Ask me about **HTML5 Games, Phaser 3 Development, and Playable Ads**
+# 🚀 What We Build
 
-- 📫 How to reach me **mailTo: snktcodes@gmail.com**
+## 🎯 Playable Ads & HTML5 Games
 
-- ⚡ Fun fact **Did you know that the first HTML5 game I developed involved a Viking collecting Bitcoins while dodging hackers and phishing traps? It was like “Jetpack Joyride,” but for crypto enthusiasts! 🚀🪙**
+High-performing, ad-network-optimized interactive units built for scale.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/snktcodes" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="snktcodes" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/snktcodes" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snktcodes" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/sanket-shinde-798b60156/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanket Shinde LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.fiverr.com/sanket1994" target="_blank" rel="noreferrer">
-    <img align="center" src="http://snktcodes.github.io/snktCodes/fiverrr.svg" alt="Fiverr" width="100" height="40" />
-  </a>
-  <a href="https://www.upwork.com/fl/~0173ab638d2bb7a9c4?mp_source=share" target="_blank" rel="noreferrer">
-    <img align="center" src="http://snktcodes.github.io/snktCodes/upwork.svg" alt="Upwork" width="100" height="40" />
-  </a>
-</p>
+- Branded mini games & advergames  
+- Casual, arcade, match-3, tap & swipe mechanics  
+- WebGL 3D browser games  
+- Interactive product demos  
+- Campaign gamification experiences  
 
-<h3 align="left">Languages and Tools:</h3>
+**Built for:**  
+Applovin • Unity Ads • Mintegral • Meta • TikTok • Google
 
-<h3 align="left">Game Development Frameworks</h3>
-<p align="left">
-  <a href="https://phaser.io/" target="_blank" rel="noreferrer">
-    <img src="http://snktcodes.github.io/snktCodes/phaserplanet.svg" alt="Phaser 3" width="40" height="40"/>
-  </a>
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-</p>
+**What agencies value:**
+- Sub-5MB optimization expertise  
+- Conversion-focused UI systems  
+- Fast iteration cycles  
+- Structured milestone delivery  
+- Clean QA and export handling  
+- Clear communication & realistic timelines  
 
-<h3 align="left">Programming Languages</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<h3 align="left">Web Technologies</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40"/>
-  </a>
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp" width="40" height="40"/>
-  </a>
-</p>
+## 🎮 Unity Games & Cross-Platform Builds
 
-<h3 align="left">Databases & Backend</h3>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-</p>
+For campaigns or products requiring native deployment.
 
-<h3 align="left">Tools & Platforms</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-  </a>
-</p>
+- iOS & Android App Store builds  
+- Desktop & standalone applications  
+- Cross-platform game products  
+- Simulation & gamified tools  
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/snkt007"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/snkt007" /></a></p><br><br>
+Ideal for:
+- Branded apps  
+- Experiential marketing campaigns  
+- Long-term scalable products  
+
+---
+
+## 🌐 Interactive Web Experiences
+
+Not just websites — engagement-driven digital activations.
+
+- Brand microsites  
+- Gamified landing pages  
+- Interactive storytelling experiences  
+- Product explainers with motion  
+- Campaign activations  
+- Custom Shopify / WordPress builds  
+
+Every experience is built with:
+- Performance-first architecture  
+- Animation polish (GSAP / WebGL)  
+- Mobile-first execution  
+- Scalable backend systems  
+
+---
+
+## 🎨 Game & Interactive Design
+
+We design complete interactive systems, not just screens.
+
+- UI/UX for games & playables  
+- Characters & environment design  
+- HUD systems & gamification layers  
+- Motion graphics & animation systems  
+- Brand-aligned visual aesthetics  
+
+Strong emphasis on:
+- Ad performance psychology  
+- Clear onboarding flows  
+- Reward loops & engagement mechanics  
+
+---
+
+## 💬 Social Platform Experiences
+
+Platform-native interactive units.
+
+- Telegram Mini Games  
+- Discord Activities  
+- YouTube Playables  
+- Facebook Instant Games  
+- Reddit Games  
+
+Designed for:
+- Viral engagement  
+- Lightweight deployment  
+- High retention  
+
+---
+
+## 🕶 AR & Immersive Experiences
+
+- Web AR (no app required)  
+- Unity AR Foundation builds  
+- VR simulations & interactive demos  
+- AR try-ons & product viewers  
+- Face, body & world tracking  
+
+Used for:
+- Product launches  
+- Experiential campaigns  
+- Interactive retail solutions  
+
+---
+
+# 🛠 Technical Expertise
+
+### Game Engines
+- Phaser 3
+- Unity
+- Three.js / WebGL
+
+### Languages
+- JavaScript
+- TypeScript
+- Node.js
+
+### Backend & Cloud
+- AWS
+- MySQL / PostgreSQL
+- REST APIs
+- Leaderboards & Analytics systems
+
+### Production Workflow
+- Git versioning
+- Structured milestone planning
+- Asset optimization pipelines
+- Multi-network export handling
+- Performance profiling & debugging
+
+---
+
+# 🧠 Why Agencies Work With Me
+
+- 10+ years of interactive development experience  
+- Deep understanding of ad network constraints  
+- Performance-first mindset  
+- Creative + technical bridge  
+- Clean documentation & predictable delivery  
+- Studio-level quality without agency overhead  
+
+---
+
+# 🌍 Portfolio
+
+🎮 HTML5 Games  
+https://snktcodes.com/#html5games  
+
+🚀 Playable Ads Portfolio  
+https://snktcodes.com/#portfolio  
+
+💼 Fiverr  
+https://www.fiverr.com/sanket1994  
+
+---
+
+# 📬 Let’s Collaborate
+
+I work with:
+
+- Creative agencies  
+- Media agencies  
+- Performance marketing teams  
+- Brand marketing teams  
+- Startups building gamified products  
+
+📩 snktcodes@gmail.com  
+
+If you're looking for a reliable interactive partner who understands both performance marketing and game design — let's build something that converts.
